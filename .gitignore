@@ -1,0 +1,9 @@
+echo "# Going-to-get-the-money-giggity" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jmac41761-png/Going-to-get-the-money-giggity.git
+git push -u origin maingit remote add origin https://github.com/jmac41761-png/Going-to-get-the-money-giggity.git
+git branch -M main
+git push -u origin main
